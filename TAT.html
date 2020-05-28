@@ -1,0 +1,18 @@
+---
+layout: default
+title: TAT
+---
+<h1>Latest Articles</h1>
+This is the memo of the tools/math formula that I commonly use but always forget where to find and how to find it.  <br/>
+
+Đây là bản ghi nhớ những công cụ/ công thức toán mà tôi thường dùng như luôn quên và không biết tìm lại ở đâu.
+<ul>
+  {% for post in site.posts %}
+    {% if post.path contains 'TAT' %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.excerpt }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
