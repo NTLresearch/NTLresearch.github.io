@@ -5,4 +5,4 @@
 layout: home
 ---
 
-
+<h2>Latest Articles from all categories</h2>

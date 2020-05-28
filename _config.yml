@@ -21,7 +21,7 @@
 title: NTL Research
 email: NTLresearchgroup@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Inspired by market volatility
+  Inspired by market volatility, fueled by open-source and community
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://NTLresearch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  NTLResearch

@@ -3,16 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+### English 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the supplementary site for NTL research blog, you can find posts involved more mathematical and programming concenpts 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find other original posts in our main site hosted by wordpress from the link below:
+[ntlresearch](https://ntlresearch.wordpress.com/). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Vietnamese 
 
+Đây là phiên bản bổ sung cho blog của NTL research group, từ đây bạn đọc có thể tìm thấy những bài viết liên quan đến các khái niệm toán học và lập trình nhiều hơn.
 
-[jekyll-organization]: https://github.com/jekyll
+Bạn đọc có thể tìm các bài viết gốc khác từ trang web chính được host trên wordpress với đường link sau:
+[ntlresearch](https://ntlresearch.wordpress.com/).
