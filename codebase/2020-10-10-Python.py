@@ -51,3 +51,9 @@ for i, hero in enumerate(hero_list, 1):
 # 3:Vs
 # 4:Tinker
 # 5:CK
+
+
+
+#* Tip 1: Always use enumerate over range
+
+
