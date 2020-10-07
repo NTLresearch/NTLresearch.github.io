@@ -47,3 +47,4 @@ $$ \text{Call Delta}  > \text{Probability call ends up ITM} $$
 $$ \text{abs(Put Delta)} < \text{Probability put ends up ITM} $$
 
 
+

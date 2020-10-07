@@ -8,20 +8,17 @@ usemathjax: true
 
 Fundamental theorem of derivatives trading by Jesper Andreasen
 
-Assume zero rates and zero dividends
-Assume standard frictionless markets
-Assume the underlying stock evolves continuously
+Assume zero rates and zero dividends.
 
-There exists two stochastic processes 
+Assume standard frictionless markets.
 
-$$ \mu, \sigma $$
-such that
+Assume the underlying stock evolves continuously.
+
+There exists two stochastic processes $$ \mu, \sigma $$ such that
 
 $$ \frac{dS(t)}{S(t)} = \mu(t)dt + \sigma(t)dW(t)$$
 
-under measure
-
-$$\text{real measure } P$$
+under $$\text{real measure } P$$
 
 let V be the value of an option book S priced on a model with constant volatility 
 
